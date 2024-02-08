@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Ramgo\OneDrive\Documents\Online_Shop\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+405290615.index
+2610800360.index
+3599221397.index
+4251685346.index
+2228335143.index
+1639431429.index

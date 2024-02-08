@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\Users\Ramgo\OneDrive\Documents\Online_Shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2231394291.index
+\Online_Shopping\src\main\java
+C:\Users\Ramgo\OneDrive\Documents\Online_Shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\405290615.index
+\Online_Shopping\src\main\java
+C:\Users\Ramgo\OneDrive\Documents\Online_Shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4213693891.index
+\Online_Shopping\src\main\java

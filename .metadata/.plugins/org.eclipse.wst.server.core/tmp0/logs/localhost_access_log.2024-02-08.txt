@@ -1,3 +1,16 @@
 127.0.0.1 - - [08/Feb/2024:19:22:04 +0530] "GET / HTTP/1.1" 404 752
 0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:22:05 +0530] "GET /Online_Shopping/index.html HTTP/1.1" 200 130
 0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:22:06 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [08/Feb/2024:19:43:04 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:43:05 +0530] "GET /Online_Shopping/ HTTP/1.1" 200 877
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:43:06 +0530] "GET /Online_Shopping/css/signup-style.css HTTP/1.1" 200 1839
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:43:12 +0530] "POST /Online_Shopping/LoginConfirm.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:43:13 +0530] "GET /Online_Shopping/error.jsp HTTP/1.1" 200 490
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:43:15 +0530] "GET /Online_Shopping/index.html HTTP/1.1" 200 877
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:43:25 +0530] "POST /Online_Shopping/LoginConfirm.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:43:25 +0530] "GET /Online_Shopping/admin/adminHome.jsp HTTP/1.1" 200 2026
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:43:25 +0530] "GET /Online_Shopping/css/home-style.css HTTP/1.1" 200 3405
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:48:21 +0530] "GET /Online_Shopping/logout.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:48:21 +0530] "GET /Online_Shopping/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:48:26 +0530] "GET /Online_Shopping/admin/AllProductedit.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:19:48:26 +0530] "GET /Online_Shopping/error.jsp HTTP/1.1" 200 490
